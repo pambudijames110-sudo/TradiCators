@@ -19,7 +19,8 @@ A Python quantitative finance repository featuring two institutional-style analy
 
 ## Project 2: Walk-Forward Multi-Factor Statistical Arbitrage (`Indicator no 2.py`)
 
-![Quantitative Tear Sheet](tearsheet_preview.png)
+![Quantitative Tear Sheet]
+(Preview No 2.png)
 
 ### Key Methodology
 * **Multi-Factor Ridge Regression ($L_2$ Regularization)**: Estimates asset sensitivities to macro factors (`^JKSE`, `IDR=X`, `GC=F`) via $\hat{\beta} = (X^T X + \lambda I)^{-1} X^T Y$ with an unpenalized $\alpha$ intercept.
